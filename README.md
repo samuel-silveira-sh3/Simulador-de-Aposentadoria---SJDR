@@ -2,7 +2,7 @@
 
 ## 1. Legislação que deve ser considerada
 
-A base municipal principal é a Lei Municipal nº 4.048, de 23 de junho de 2006, que reestruturou o Instituto Municipal de Previdência de São João del-Rei – IMP. O próprio IMP disponibiliza atualmente o texto da lei. 
+A base municipal principal é a **Lei Municipal nº 4.048, de 23 de junho de 2006**, que reestruturou o Instituto Municipal de Previdência de São João del-Rei – IMP. O próprio IMP disponibiliza atualmente o texto da lei. 
 
 O Estatuto dos Servidores, Lei Municipal nº 5.038/2014, determina que a aposentadoria dos servidores efetivos ou dos estáveis pelo art. 19 do ADCT é concedida pelo IMP conforme a Constituição Federal e suas Emendas Constitucionais. 
 
